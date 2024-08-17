@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T00:11:23 CET" name="Selenium Final Thesis" finished-at="2024-02-29T00:13:07 CET" duration-ms="104304">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T00:11:23 CET" name="Test Cases" finished-at="2024-02-29T00:13:07 CET" duration-ms="104304">
+      <class name="testcases.ProductPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.ProductPageTest@517d4a0d]" started-at="2024-02-29T00:12:31 CET" name="setup" finished-at="2024-02-29T00:12:39 CET" duration-ms="8756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateProductSelectionTest()[pri:1, instance:testcases.ProductPageTest@517d4a0d]" started-at="2024-02-29T00:12:39 CET" name="validateProductSelectionTest" finished-at="2024-02-29T00:12:40 CET" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProductSelectionTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.ProductPageTest@517d4a0d]" started-at="2024-02-29T00:12:40 CET" name="teardown" finished-at="2024-02-29T00:12:40 CET" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.ProductPageTest -->
+      <class name="testcases.HeaderSectionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.HeaderSectionTest@1f3f02ee]" started-at="2024-02-29T00:11:23 CET" name="setup" finished-at="2024-02-29T00:11:28 CET" duration-ms="5822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnLoginTest()[pri:0, instance:testcases.HeaderSectionTest@1f3f02ee]" started-at="2024-02-29T00:11:28 CET" name="clickOnLoginTest" finished-at="2024-02-29T00:11:29 CET" duration-ms="782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.HeaderSectionTest@1f3f02ee]" started-at="2024-02-29T00:11:29 CET" name="teardown" finished-at="2024-02-29T00:11:30 CET" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.HeaderSectionTest -->
+      <class name="testcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.HomePageTest@4fad9bb2]" started-at="2024-02-29T00:12:23 CET" name="setup" finished-at="2024-02-29T00:12:29 CET" duration-ms="5253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnLogoTest()[pri:1, instance:testcases.HomePageTest@4fad9bb2]" started-at="2024-02-29T00:12:29 CET" name="clickOnLogoTest" finished-at="2024-02-29T00:12:30 CET" duration-ms="1575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLogoTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.HomePageTest@4fad9bb2]" started-at="2024-02-29T00:12:30 CET" name="teardown" finished-at="2024-02-29T00:12:31 CET" duration-ms="473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.HomePageTest -->
+      <class name="testcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:11:47 CET" name="setup" finished-at="2024-02-29T00:11:52 CET" duration-ms="5559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validLoginTest()[pri:1, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:11:52 CET" name="validLoginTest" finished-at="2024-02-29T00:11:54 CET" duration-ms="1578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:11:54 CET" name="teardown" finished-at="2024-02-29T00:11:54 CET" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:11:54 CET" name="setup" finished-at="2024-02-29T00:12:00 CET" duration-ms="5595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidLoginTest1()[pri:2, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:12:00 CET" name="invalidLoginTest1" finished-at="2024-02-29T00:12:01 CET" duration-ms="1141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:12:01 CET" name="teardown" finished-at="2024-02-29T00:12:01 CET" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:12:01 CET" name="setup" finished-at="2024-02-29T00:12:07 CET" duration-ms="5513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidLoginTest2()[pri:3, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:12:07 CET" name="invalidLoginTest2" finished-at="2024-02-29T00:12:08 CET" duration-ms="1106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:12:08 CET" name="teardown" finished-at="2024-02-29T00:12:08 CET" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:12:08 CET" name="setup" finished-at="2024-02-29T00:12:14 CET" duration-ms="5750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidLoginTest3()[pri:4, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:12:14 CET" name="invalidLoginTest3" finished-at="2024-02-29T00:12:15 CET" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest3 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:12:15 CET" name="teardown" finished-at="2024-02-29T00:12:16 CET" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:12:16 CET" name="setup" finished-at="2024-02-29T00:12:22 CET" duration-ms="6084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="newCustomerRegisterTest()[pri:5, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:12:22 CET" name="newCustomerRegisterTest" finished-at="2024-02-29T00:12:23 CET" duration-ms="1394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newCustomerRegisterTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.LoginPageTest@4b3ed2f0]" started-at="2024-02-29T00:12:23 CET" name="teardown" finished-at="2024-02-29T00:12:23 CET" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.LoginPageTest -->
+      <class name="testcases.CheckoutPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.CheckoutPageTest@3a12c404]" started-at="2024-02-29T00:12:49 CET" name="setup" finished-at="2024-02-29T00:12:58 CET" duration-ms="9183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateSuccessfulOrderTest()[pri:1, instance:testcases.CheckoutPageTest@3a12c404]" started-at="2024-02-29T00:12:58 CET" name="validateSuccessfulOrderTest" finished-at="2024-02-29T00:13:06 CET" duration-ms="8152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSuccessfulOrderTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.CheckoutPageTest@3a12c404]" started-at="2024-02-29T00:13:06 CET" name="teardown" finished-at="2024-02-29T00:13:07 CET" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.CheckoutPageTest -->
+      <class name="testcases.RegistrationPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.RegistrationPageTest@66ac5762]" started-at="2024-02-29T00:11:30 CET" name="setup" finished-at="2024-02-29T00:11:36 CET" duration-ms="6296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validRegistrationTest()[pri:1, instance:testcases.RegistrationPageTest@66ac5762]" started-at="2024-02-29T00:11:36 CET" name="validRegistrationTest" finished-at="2024-02-29T00:11:38 CET" duration-ms="2171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validRegistrationTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.RegistrationPageTest@66ac5762]" started-at="2024-02-29T00:11:38 CET" name="teardown" finished-at="2024-02-29T00:11:39 CET" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.RegistrationPageTest@66ac5762]" started-at="2024-02-29T00:11:39 CET" name="setup" finished-at="2024-02-29T00:11:45 CET" duration-ms="5878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidRegistrationTest()[pri:2, instance:testcases.RegistrationPageTest@66ac5762]" started-at="2024-02-29T00:11:45 CET" name="invalidRegistrationTest" finished-at="2024-02-29T00:11:46 CET" duration-ms="1550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidRegistrationTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.RegistrationPageTest@66ac5762]" started-at="2024-02-29T00:11:46 CET" name="teardown" finished-at="2024-02-29T00:11:47 CET" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.RegistrationPageTest -->
+      <class name="testcases.ShoppingCartPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.ShoppingCartPageTest@7862f56]" started-at="2024-02-29T00:12:40 CET" name="setup" finished-at="2024-02-29T00:12:49 CET" duration-ms="8326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateAddToCartTest()[pri:1, instance:testcases.ShoppingCartPageTest@7862f56]" started-at="2024-02-29T00:12:49 CET" name="validateAddToCartTest" finished-at="2024-02-29T00:12:49 CET" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddToCartTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.ShoppingCartPageTest@7862f56]" started-at="2024-02-29T00:12:49 CET" name="teardown" finished-at="2024-02-29T00:12:49 CET" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.ShoppingCartPageTest -->
+    </test> <!-- Test Cases -->
+  </suite> <!-- Selenium Final Thesis -->
+</testng-results>

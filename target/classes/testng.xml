@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium Final Thesis">
+
+	<listeners>
+		<listener class-name="utilities.ExtentListeners" />
+	</listeners>
+
+	<test name="Test Cases">
+		<classes>
+			<class name="testcases.HeaderSectionTest"></class>
+			<class name="testcases.RegistrationPageTest"></class>
+			<class name="testcases.LoginPageTest"></class>
+			<class name="testcases.HomePageTest"></class>
+			<class name="testcases.ProductPageTest"></class>
+			<class name="testcases.ShoppingCartPageTest"></class>
+			<class name="testcases.CheckoutPageTest"></class>
+		</classes>
+	</test>
+</suite>
